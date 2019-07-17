@@ -1,0 +1,18 @@
+.axis path, .axis line
+{
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.area
+{
+  fill: $primary-color;
+}
+
+.line
+{
+	fill: none;
+	stroke: $primary-color;
+	stroke-width: 2.5px;
+}
